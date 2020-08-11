@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">home</string>
+    <string name="title_activity_employee">employee</string>
+    <string name="title_activity_product">product</string>
+    <string name="title_activity_dataentry">Dataentry</string>
+    <string name="title_activity_view">View</string>
+    <string name="title_activity_edit">edit</string>
+    <string name="title_activity_delete">delete</string>
+</resources>
